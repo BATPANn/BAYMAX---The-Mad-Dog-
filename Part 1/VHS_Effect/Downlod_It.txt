@@ -1,4 +1,8 @@
-Download Link : https://github.com/BATPANn/Fears_To_Fathom/tree/main/F2F_VhsFree
+Download Link : 
+https://github.com/BATPANn/Fears_To_Fathom/tree/main/F2F_VhsFree
 
 the vhs effect I downloaded from my GitHub, this is the direct link which will get you directly to the files for you to download. 
 
+
+How to download : 
+Click on Unity package, Click on view Raw, It automatically downloads the uniyt package. 
