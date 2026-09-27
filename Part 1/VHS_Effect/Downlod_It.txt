@@ -5,4 +5,4 @@ the vhs effect I downloaded from my GitHub, this is the direct link which will g
 
 
 How to download : 
-Click on Unity package, Click on view Raw, It automatically downloads the uniyt package. 
+Click on Unity package, Click on view Raw, It automatically downloads the unity package. 
